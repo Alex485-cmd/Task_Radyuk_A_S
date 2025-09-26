@@ -1,0 +1,6 @@
+Point 1 2
+Rect 0 0 3 4
+Line 1 1 5 5
+Square 2 2 4
+Rhomb 3 3 2 2
+Circle 0 0 5
